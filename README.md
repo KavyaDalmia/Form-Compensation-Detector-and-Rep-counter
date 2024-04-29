@@ -1,6 +1,6 @@
 # Form Compensation Detector and Rep counter
 
-Welcome to your AI powered personal trainer that will help you detect your form compensations when you exercise. 
+Welcome to your Machine Learning and Computer vision powered personal trainer that will help you detect your form compensations when you exercise. 
 MOTIVATION: I love exercising and fitness. I recently started noticing that a lot of people can learn about exercises by a simple chrome search but then they don't really know if you are doing it right.
 
 SQUATS: When you do a squat, the three most common compensations are forward lean, knees caving and toes turing outward. A way to test the forward lean is doing a squat with your hands overhead and looking to see if the lines formed from your wrist to hip and the line from your knee to the ankle are parallel. If the are not parallel, then you are leaning forward.
@@ -11,5 +11,4 @@ To count reps: I first collected some data about landmarks and body coordinates 
 
 Demo:
 
-![Uploading WIN_20240222_12_44_33_Pro.jpg…]()
 
