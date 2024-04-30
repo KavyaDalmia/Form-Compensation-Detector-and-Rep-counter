@@ -11,5 +11,6 @@ To count reps: I first collected some data about landmarks and body coordinates 
 
 Demo:
 ![Alt Text](github5.png)
+<img src="github5.png" alt="Alt Text" width="300">
 
 
