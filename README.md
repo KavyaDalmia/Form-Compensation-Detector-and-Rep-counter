@@ -1,4 +1,4 @@
-# Form Compensation Detector and Rep counter
+# Want to Squat heavier and fix your form? Keep Reading
 
 Welcome to your Machine Learning and Computer vision powered personal trainer that will help you detect your form compensations when you exercise. 
 MOTIVATION: I love exercising and fitness. I recently started noticing that a lot of people can learn about exercises by a simple chrome search but then they don't really know if you are doing it right.
